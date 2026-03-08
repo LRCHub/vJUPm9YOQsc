@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Winding road",
+  "base_artist": "Tiara",
+  "createdAt": "2026-03-08T17:10:28.752733Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Long and Winding Road",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/01_The_Long_and_Winding_Road_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Everyday Is a Winding Road",
+      "artist": "Sheryl Crow",
+      "has_synced": false,
+      "path": "select/02_Everyday_Is_a_Winding_Road_Sheryl_Crow.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Long and Winding Road",
+      "artist": "Billy Ocean",
+      "has_synced": true,
+      "path": "select/03_The_Long_and_Winding_Road_Billy_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Long and Winding Road",
+      "artist": "Billy Ocean",
+      "has_synced": true,
+      "path": "select/04_Long_and_Winding_Road_Billy_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Long And Winding Road",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/05_The_Long_And_Winding_Road_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Long And Winding Road [Outtake]",
+      "artist": "Nina Simone",
+      "has_synced": true,
+      "path": "select/06_The_Long_And_Winding_Road_[Outtake]_Nina_Simone.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Long and Winding Road",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/07_The_Long_and_Winding_Road_The_Beatles.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Everyday Is a Winding Road",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/08_Everyday_Is_a_Winding_Road_Prince.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Long and Winding Road",
+      "artist": "The Langley Schools Music Project",
+      "has_synced": false,
+      "path": "select/09_The_Long_and_Winding_Road_The_Langley_Schools_Music_Project.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Winding Road",
+      "artist": "Bonnie Somerville",
+      "has_synced": true,
+      "path": "select/10_Winding_Road_Bonnie_Somerville.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Long and Winding Road (2015 stereo mix)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/11_The_Long_and_Winding_Road_(2015_stereo_mix)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Long and Winding Road",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/12_The_Long_and_Winding_Road_The_Beatles.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Winding road",
+      "artist": "Tiara",
+      "has_synced": false,
+      "path": "select/pl_01_Winding_road_Tiara.txt"
+    }
+  ]
+}
